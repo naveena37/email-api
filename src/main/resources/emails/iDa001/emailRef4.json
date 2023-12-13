@@ -1,0 +1,9 @@
+{
+  "emailRef": "emailRef4",
+  "subject": "Spam: Dangerous goods",
+  "date": "2023-12-07T12:39:40.260Z",
+  "sender": "somebody@airnz.co.nz",
+  "content": "Please ignore this spam email.",
+  "toList" : [ "ani@airnz.co.nz", "xyz@airnz.co.nz" ],
+  "ccList" : [ "bcc@airnz.co.nz" ]
+}

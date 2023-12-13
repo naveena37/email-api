@@ -1,0 +1,9 @@
+{
+  "emailRef": "emailRef2",
+  "subject": "Curriculum vitae",
+  "date": "2023-12-11T12:39:40.260Z",
+  "sender": "nobody@airnz.co.nz",
+  "content": "Dear Sir,\n Please consider my CV\n Thanks.",
+  "toList" : [ "sleazy@airnz.co.nz" ],
+  "ccList" : [ "bcc@airnz.co.nz" ]
+}

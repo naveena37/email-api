@@ -1,0 +1,8 @@
+{
+  "emailRef": "emailRef3",
+  "subject": "HR receipts",
+  "date": "2023-12-13T12:39:40.260Z",
+  "sender": "anybody@airnz.co.nz",
+  "content": "Please provide the HR receipts ASAP to continue our services\n.",
+  "toList" : [ "abc@airnz.co.nz" ]
+}

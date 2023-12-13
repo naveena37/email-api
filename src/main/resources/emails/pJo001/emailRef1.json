@@ -1,0 +1,9 @@
+{
+  "emailRef": "emailRef1",
+  "subject": "Fwd: Introducing the policy",
+  "date": "2023-12-12T12:39:40.260Z",
+  "sender": "somebody@airnz.co.nz",
+  "content": "While writing a policy change letter – be transparent, clear, and upfront. \nDisclose the necessary information that you think is important for the employees to know.\n Clearly state the reason for the sudden policy change or introduction of something new in the company. Explain the possible benefits.",
+  "toList" : [ "ani@airnz.co.nz", "xyz@airnz.co.nz" ],
+  "ccList" : [ "bcc@airnz.co.nz" ]
+}
